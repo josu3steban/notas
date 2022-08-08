@@ -3,9 +3,6 @@
 ## Instrucciones
 
 - Registrate para obtener tu cuenta
-
-![register (2)](https://user-images.githubusercontent.com/84942510/183358391-5682b5ae-5e2b-4719-8ff9-1309d988ace5.jpeg)
-
 - Inicia sesión
 
 ![login](https://user-images.githubusercontent.com/84942510/183358518-acaf94b3-85ce-4dab-a25a-dd6ac9ffc053.jpeg)
